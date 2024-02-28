@@ -127,22 +127,244 @@ document.addEventListener("DOMContentLoaded", function() {
                 "linkedin": "https://www.linkedin.com/in/jillisabrown",
                 "instagram": "https://www.instagram.com/fundingimpact/"
             }  
-        ]
-    };
+        ],
+        "youth": [
+            {
+                "name": "Stella Igweamaka",
+                "pronouns": "She/Her",
+                "image": "images/photos/stella-igweamaka.png",
+                "title": "Senior Execution Consultant, Servus Credit Union",
+                "description": "Stella Igweamaka is passionate about using research and storytelling for impactful change. Through a recent project conducted in collaboration with Black Canadian Women in Action on the Adultification of Black Girls in Canada, she was able to shine a spotlight on the deeply ingrained biases that affect Black girls' lives. At her workplace, Stella established a BIPOC employee resource group, and she holds an MBA from the University of Lagos, Nigeria.",
+                "website": "https://www.bcwinaction.ca/black-girls-empowerment",
+                "twitter": "https://twitter.com/StellaIgweamaka",
+                "linkedin": "https://www.linkedin.com/in/stella-igweamaka",
+                "instagram": "https://www.instagram.com/stella_igweamaka"
+    
+            },
+            {
+                "name": "Reanna Merasty",
+                "pronouns": "She/Her",
+                "image": "images/photos/reanna-merasty.png",
+                "title": "Changemaker, Winnipeg",
+                "description": "Reanna Merasty is a proud Nihithaw woman from Barren Lands First Nation. Reanna strives to empower and inspire Indigenous youth across Canada to pursue architecture and design. Reanna is the Chair of the Welcoming Winnipeg Committee, a Sessional Instructor at the University of Manitoba, and the Manitoba Regional Director with the Royal Architecture Institute of Canada Board. Through this advocacy work, Reanna was named the 2023 Youth-First Nations Indspire Award Laureate.",
+                "website": "",
+                "twitter": "https://twitter.com/rmerasty",
+                "linkedin": "https://www.linkedin.com/in/reanna-merasty/",
+                "instagram": "https://www.instagram.com/rmerasty/"
+            },
+            {
+                "name": "Qumangaapik Pairngu Arnatsiaq",
+                "pronouns": "He/Him",
+                "image": "images/photos/qumangaapik-pairngu-arnatsiaq.png",
+                "title": "Acting Recreation Director, Municipality of Igloolik",
+                "description": "With the help of the Recreation and Parks Association of Nunavut, Quamangaapik was able to escort three young leaders to Toronto for youth camp training called “Get Happy Summer Day Camp.” Upon their return, he and the leaders delivered a quality camp five days a week for youth in Igloolik. Earlier this year, after additional training in Winnipeg, so Quamangaapik, along with four others, spearheaded an after school program called the Winter Youth Program, delivered three times weekly. He has worked in youth recreation for six years.",
+                "website": "https://www.facebook.com/igloolik.ca/",
+                "twitter": "https://twitter.com/QArnatsiaq",
+                "linkedin": "",
+                "instagram": "https://www.instagram.com/qumangaapikarnatsiaq/"
+            },
+            {
+                "name": "Sancho Angulo",
+                "pronouns": "He/Him",
+                "image": "images/photos/sancho-angulo.png",
+                "title": "Engagement Advisor, Treasury Board of Canada Secretariat",
+                "description": "Sancho Angulo is an autistic Filipino-Canadian public servant, neurodiversity advocate, and privacy professional. He is Co-Chair and founder of Infinity - The Network for Neurodivergent Public Servants, an interdepartmental network supporting neurodivergent employees across the Government of Canada, encompassing more than 900 members across 70 federal institutions. A certified privacy professional through the International Association of Privacy Professionals, Sancho serves as a Co-Chair of Ottawa's IAPP KnowledgeNet chapter.",
+                "website": "",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/sanchoa/",
+                "instagram": "https://www.instagram.com/sanchoangulo/"
+            },
+            {
+                "name": "Aicha Toure",
+                "pronouns": "She/Her",
+                "image": "images/photos/aicha-toure.png",
+                "title": "Director of African Programs, Journalists for Human Rights",
+                "description": "Aicha Touré is a feminist with a bilingual Master’s degree in Public Policy and International Affairs. Her work is informed by a strong commitment to decolonial praxis as a means of creating a more equitable global society. She oversees projects that seek to promote good governance practices and enhance access to human rights, especially for women and girls. She is one of the founders of Griot’s Table, a culinary storytelling company that creates immersive, multi-sensory Afro-culinary experiences that seek to reclaim and amplify Black history.",
+                "website": "https://jhr.ca/",
+                "twitter": "https://x.com/Uppity_African",
+                "linkedin": "https://www.linkedin.com/in/aicha-toure-mpp-a56229122/",
+                "instagram": "https://www.instagram.com/the_uppity_african/"
+            },
+            {
+                "name": "Niroja Thiru",
+                "pronouns": "She/Her",
+                "image": "images/photos/niroja-thiru.png",
+                "title": "Graduate Program Manager, Small Economy Works",
+                "description": "A Tamil-Canadian settler, Niroja arrived in Toronto as a refugee from Sri Lanka with her family during the civil war. Her educational and professional experiences have intersected between teaching, advanced learning, and entrepreneurial environments. In 2019 a co-op placement opportunity brought her to Fort Providence, NWT. She began working as the Youth Engagement Coordinator, leading youth programming, then transitioned to working with Small Economy Works - to provide entrepreneurial leadership training to youth in the Arctic.",
+                "website": "https://www.smalleconomyworks.com/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/nirojathiru/",
+                "instagram": ""
+            },
+            {
+                "name": "Cheyenne Stonechild",
+                "pronouns": "She/Her",
+                "image": "images/photos/cheyenne-stonechild.png",
+                "title": "International Institute for Child Rights and Development",
+                "description": "Cheyenne Stonechild (Nêhiyaw and Irish) is a member of the Muscowpetung First Nation. Raised in Vancouver, the child welfare system sparked a passion to help create needed change. She has hosted and presented at conferences on select topics, including at the Continuing Legal Education Society of BC, the Canadian Bar Association, and the World Indigenous Peoples Conference on Education. She managed the 4 the Generation Project and was a member of the International Institute for Child Rights and Development from 2018 to 2020.",
+                "website": "https://www.iicrd.org",
+                "twitter": "",
+                "linkedin": "",
+                "instagram": ""
+            },
+            {
+                "name": "Eldon Holder",
+                "pronouns": "He/Him",
+                "image": "images/photos/eldon-holder.png",
+                "title": "Vice-President of Social Impact & Stakeholder Engagement for Aspire For Higher ",
+                "description": "Eldon is an HR professional with more than 14 years of experience in grassroots development, skilled trades recruitment and project management. Whether it is hosting workshops to equip youth with skills to secure gainful employment or connecting communities across Canada to create positive impact - he wants to build a more equitable country. Eldon has been awarded the One Young World Global Ambassador for Canada, the United Way Community Builders Award, and the ON Black History Society UN International Decade award.",
+                "website": "https://aspireforhigher.ca/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/eldonholder/",
+                "instagram": "https://www.instagram.com/eldonholderjr/"
+            }
+        ],
+        "tech": [
+            {
+                "name": "Linh Kim",
+                "pronouns": "She/Her",
+                "image": "images/photos/linh-kim.png",
+                "title": "Digital moment",
+                "description": "Through her work with Digital Moment, Linh Kim contributes to lowering the bar to digital education to help young people from all walks of life develop an understanding of technology, the sustainable development goals, and the role of youth in shaping the future. She has a passion for storytelling and creative multimedia production, utilizing them as tools to raise awareness on the importance of education, empowerment, and the need to include youth voices in decisions concerning their future.",
+                "website": "https://digitalmoment.org/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/linh-kim-3b35b7177/",
+                "instagram": ""
+            },
+            {
+                "name": "Marine-Celeste Kiromera",
+                "pronouns": "She/Her",
+                "image": "images/photos/marine-celeste-kiromera.png", 
+                "title": "Manager of Learning and Impact, Equality Fund",
+                "description": "In her role, Marine-Celeste leads the development of Monitoring, Evaluation and Learning systems for the fund’s Global Grantmaking Program, applying feminist and community-centered approaches to the design of data collection tools, analysis, and co-creation of learning spaces. Marine-Celeste was also part of the core team that led the design and implementation of the Equality Fund’s first two participatory grantmaking processes.",
+                "website": "https://equalityfund.ca/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/marine-celeste-kiromera/",
+                "instagram": ""
+            },
+            {
+                "name": "Robyn Schwarz",
+                "pronouns": "She/Her",
+                "image": "images/photos/robyn-schwarz.png", 
+                "title": "Fund Development, Advocacy, and Communications Lead at Porchlight Counselling and Addiction Services",
+                "description": "Robyn is a community-builder and grant writer. She combines academic expertise with lived experience to support non-profits with their fund development, communications, advocacy, and EDI needs. In the last year, she has implemented a community-centric fundraising model at Porchlight Counselling and Addiction Services which led to a 170 per cent increase in donations. Robyn often shares her experiences with late-diagnosed ADHD and reproductive care in order to advocate for equity within the healthcare system.",
+                "website": "https://fcccnd.com/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/robyn-schwarz-8390ab31/",
+                "instagram": ""
+            },
+            {
+                "name": "Kayt Render",
+                "pronouns": "She/Her",
+                "image": "images/photos/kayt-render.png", 
+                "title": "National Director, Community Impact, United Way Centraide Canada",
+                "description": "Kayt has played a central role in shaping national strategies that drive community investment, fundraising, learning and capacity building, and global relationships. Kayt has led several initiatives, including the Europe and Middle East Refugee Settlement Initiative, the COVID-19 Emergency Community Support Fund and the Community Services Recovery Fund. Her vision and dedication have been instrumental in establishing the National Community Investment Data Framework and the Canadian Women United philanthropy program.",
+                "website": "https://www.unitedway.ca/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/kayt-render",
+                "instagram": ""
+            },
+            {
+                "name": "Samantha Tweet",
+                "pronouns": "She/Her",
+                "image": "images/photos/samantha-tweet.png", 
+                "title": "Operations Manager, Animikii",
+                "description": "Samantha is proud to be born and raised on Vancouver Island. She is Coast Salish and a member of the Snuneymuxw First Nation. Samantha has a foundation in business and more than 10 years of experience providing executive support in the Indigenous space. She is currently working on the Edmonton School District’s virtual school software platform, which will help address the inequality gap in education and empower Indigenous and racialized students to be in control of their own schooling.",
+                "website": "https://animikii.com/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/samantha-tweet-0653b7a3/",
+                "instagram": ""
+            }
+        ],
+        "climate": [
+            {
+                "name": "Wren Laing",
+                "pronouns": "She/Her",
+                "image": "images/photos/wren-laing.png",
+                "title": "Investment Director, McConnell Foundation",
+                "description": "Wren is working to create positive social and environmental change through innovative, impact-driven finance. She created and is in charge of the implementation of the foundation’s new investment strategy, which commits to transitioning the $650 million endowment to 100 per cent impact investments by 2028. Prior to McConnell, Wren was an Investment Director at Big Society Capital, where she co-led BSC’s impact property investment work, helping to demonstrate the role private capital can play in tackling the housing affordability crisis.",
+                "website": "https://www.mcconnellfoundation.ca/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/wren-laing",
+                "instagram": ""
+            },
+            {
+                "name": "Alexandra Thomson",
+                "pronouns": "She/Her",
+                "image": "images/photos/alexandra-thomson.png",
+                "title": "Director of Youth Programs at Indigenous Clean Energy",
+                "description": "Alexandra is a Nakota wįyą mixed with French descent, belonging to Cega’Kin First Nation. She holds a Bachelor of Science in Chemical Engineering from the University of Saskatchewan and has a passion for advancing Indigenous resurgence in the climate and energy landscape. Alexandra provides strategic leadership and guidance to both the ImaGENation and Generation Power programs at ICE, ensuring Indigenous young people have access to resources and opportunities that align with their values for a shared energy future.",
+                "website": "https://indigenouscleanenergy.com/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/alexandrapaigethomson/",
+                "instagram": "https://www.instagram.com/xandrahpaige/"
+            }
+        ],
+        "health":[
+            {
+                "name": "Sebastian Muermann",
+                "pronouns": "He/Him",
+                "title": "Government Relations & Membership Manager, Imagine Canada",
+                "image": "images/photos/sebastian-muermann.png",
+                "description": "Sebastian's work focuses on improving the health and working environment for thousands of registered charities and nonprofits. His work has successfully influenced federal legislation and CRA regulations affecting charitable partnerships and non-profit reporting. This year, he led the organization of the inaugural Non-profit Budget Coalition, and an advocacy day for the non-profit sector on Parliament Hill. He also serves on the board of Results Canada, and supports the Disability Without Poverty National Partners Table.",
+                "website": "",
+                "twitter": "https://twitter.com/smuermann",
+                "linkedin": "https://www.linkedin.com/in/sebastianmuermann/",
+                "instagram": ""
+            },
+            {
+                "name": "Micheal McOuat",
+                "pronouns": "He/Him",
+                "title": "Volunteer Alberta",
+                "image": "images/photos/micheal-mcouat.png",
+                "description": "Born and raised in a small town in Northern Alberta, Micheal is a proud queer Metis boy. Micheal tries to embed a human-centered approach to strengthen IDEAS and Reconciliation in his work. At work, he has been updating the policies of Volunteer Alberta to incorporate intersectionality, reconciliation, and healing-informed care and create a history of what steps Volunteer Alberta has done towards Reconciliation. He also strongly believes in the importance of fun and play as a way to break free from colonial and corporate ideologies.",
+                "website": "https://volunteeralberta.ab.ca/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/company/volunteeralberta",
+                "instagram": "https://www.instagram.com/YouthVolAb/"
+            },
+            {
+                "name": "Sera Kazmi",
+                "pronouns": "She/Her",
+                "title": "Family Service Toronto",
+                "image": "images/photos/sera-kazmi.png",
+                "description": "Sera, a recent immigrant to Canada, has a background in developing global community mental health programs. With experience spanning rural and urban areas of India, the Middle East, and Canada, she focuses on amplifying marginalized voices in her program development. Recognized by UNICEF in Dubai, UAE, and the winner of Adecco's CEO one-month UAE campaign, she oversees the Violence Against Women, and Seniors and Caregivers Support Services teams at her workplace.",
+                "website": "https://familyservicetoronto.org/",
+                "twitter": "https://twitter.com/sera_kazmi",
+                "linkedin": "https://www.linkedin.com/in/serakazmi/",
+                "instagram": "https://www.instagram.com/serakazmi/"
+            },
+            {
+                "name": "Lydia Phillip",
+                "pronouns": "She/They",
+                "title": "Content Strategist, Impact Organizations of Nova Scotia",
+                "image": "images/photos/lydia-phillip.png",
+                "description": "Lydia is passionate about transformative change and has been recognized nationally for her work and leadership. A gifted storyteller, published writer and researcher, she uses her voice to inspire, create thought-provoking work, and shape a more just future. She is currently leading IONS’ Beyond Decent Work campaign, which provides creative, innovative resources, tools, and pathways to welcome and empower people in our sector. She has the privilege of living near water in Mi'kmaki, the unceded territory of the Mi'kmaw People.",
+                "website": "https://ions.ca/",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/lydia-phillip/",
+                "instagram": ""
+            }
+        ]    
 
-    populateCards(jsonData.inclusion);
+    };
+    populateSection('inclusion', jsonData.inclusion, 'bg-blue');
+    populateSection('youth', jsonData.youth,'bg-yellow');
+    populateSection('tech', jsonData.youth,'bg-red');
+    populateSection('climate', jsonData.youth,'bg-green');
+    populateSection('health', jsonData.youth,'bg-white');
 });
 
-function populateCards(items) {
-    const container = document.querySelector('.row.flex-wrap');
-    container.innerHTML = ''; // Clear existing content
+function populateSection(sectionId, items, bgColorClass) {
+    const container = document.querySelector(`#${sectionId} .row.flex-wrap`);
+    container.innerHTML = ''; // Clear existing entries
 
     items.forEach(item => {
-        const col = document.createElement('div');
-        col.className = 'col-12 col-md-6 col-lg-3';
-        col.innerHTML = `
-            <div class="card bg-darker" data-bs-toggle="modal" data-bs-target="#exampleModal" data-aos="fade-up" data-aos-duration="1000" style="cursor: pointer;">
-                <img src="${item.image}" class="card-img-top bg-blue" alt="...">
+        const colDiv = document.createElement('div');
+        colDiv.className = 'col-6 col-md-4 col-lg-3';
+        colDiv.innerHTML = `
+            <div class="card bg-darker" data-bs-toggle="modal" data-bs-target="#exampleModal" data-aos="fade-up" data-aos-duration="1000">
+                <img src="${item.image}" class="card-img-top ${bgColorClass}" alt="...">
                 <div class="card-body text-white">
                     <h4 class="card-title bio-name">${item.name}</h4>
                     <p class="small text-white mb-0 bio-title">${item.title}</p>
@@ -150,41 +372,28 @@ function populateCards(items) {
             </div>
         `;
 
-        col.querySelector('.card').addEventListener('click', function() {
-            populateModal(item);
-            // Here you can also adjust the modal image's background color if needed
-        });
-
-        container.appendChild(col);
+        // Event listener for opening the modal with item details
+        colDiv.querySelector('.card').addEventListener('click', () => populateModal(item, bgColorClass));
+        container.appendChild(colDiv);
     });
 }
 
-function populateModal(item) {
-    const modalImage = document.querySelector('.modal-body img');
-    const modalName = document.querySelector('.modal-body .bio-name');
-    const modalPronouns = document.querySelector('.modal-body .bio-pronouns');
-    const modalTitle = document.querySelector('.modal-body .bio-title');
-    const modalDescription = document.querySelector('.modal-body .bio');
-    const modalWebsite = document.querySelector('.modal-body .bio-website');
-    const modalTwitter = document.querySelector('.modal-body .bio-twitter');
-    const modalLinkedin = document.querySelector('.modal-body .bio-linkedin');
-    const modalInstagram = document.querySelector('.modal-body .bio-instagram');
-
+function populateModal(item, bgColorClass) {
+    const modal = document.querySelector('#exampleModal');
+    const modalImage = modal.querySelector('.modal-body img');
+    
+    // Reset any previous classes and apply the new background color class to the modal's img
+    modalImage.className = 'card-img-modal'; // Ensure this is your base class for modal images
+    modalImage.classList.add(bgColorClass);
     modalImage.src = item.image;
-    modalName.textContent = item.name;
-    modalPronouns.textContent = item.pronouns;
-    modalTitle.textContent = item.title;
-    modalDescription.textContent = item.description;
 
-    // modalWebsite.href = item.website || '#';
-    // modalTwitter.href = item.twitter || '#';
-    // modalLinkedin.href = item.linkedin || '#';
-    // modalInstagram.href = item.instagram || '#';
-
-    // Adjust the modal image's background color to match the card's
-    // This assumes the card's background color is known and static.
-    // If it's dynamic, you'll need to pass it as an argument or manage it differently.
-    modalImage.parentElement.style.backgroundColor = 'var(--bg-blue)'; // Adjust the variable as per your CSS
+    modal.querySelector('.modal-body .bio-name').textContent = item.name + " (" + item.pronouns + ")";
+    modal.querySelector('.modal-body .bio-title').textContent = item.title;
+    modal.querySelector('.modal-body .bio').textContent = item.description;
+    modal.querySelector('.modal-body .bio-website').href = item.website || '#';
+    modal.querySelector('.modal-body .bio-twitter').href = item.twitter || '#';
+    modal.querySelector('.modal-body .bio-linkedin').href = item.linkedin || '#';
+    modal.querySelector('.modal-body .bio-instagram').href = item.instagram || '#';
 
     // Social links
     const setSocialLink = (selector, url) => {
@@ -195,9 +404,12 @@ function populateModal(item) {
         } else {
             element.style.display = 'none';
         }
-    };
-    setSocialLink('.bio-website', item.website);
-    setSocialLink('.bio-twitter', item.twitter);
-    setSocialLink('.bio-linkedin', item.linkedin);
-    setSocialLink('.bio-instagram', item.instagram);
+        };
+        setSocialLink('.bio-website', item.website);
+        setSocialLink('.bio-twitter', item.twitter);
+        setSocialLink('.bio-linkedin', item.linkedin);
+        setSocialLink('.bio-instagram', item.instagram);
+
 }
+
+

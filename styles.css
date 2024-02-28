@@ -129,7 +129,16 @@ nav.side{
     height:160px;
     width: 100%;
     object-fit: contain;
+    object-position: bottom;
     border-radius: 0;
+}
+
+.card-title {
+    font-size: 1.25em;
+}
+
+.bio-title{
+    font-size: .8em;
 }
 
 .card-img-modal{
@@ -211,5 +220,8 @@ footer h5{
 @media (max-width:767px){
     nav.side{
         width:100%;
+    }
+    .card-title {
+        font-size: 1.15em;
     }
 }
