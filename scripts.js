@@ -350,9 +350,9 @@ document.addEventListener("DOMContentLoaded", function() {
     };
     populateSection('inclusion', jsonData.inclusion, 'bg-blue');
     populateSection('youth', jsonData.youth,'bg-yellow');
-    populateSection('tech', jsonData.youth,'bg-red');
-    populateSection('climate', jsonData.youth,'bg-green');
-    populateSection('health', jsonData.youth,'bg-white');
+    populateSection('tech', jsonData.tech,'bg-red');
+    populateSection('climate', jsonData.climate,'bg-green');
+    populateSection('health', jsonData.health,'bg-white');
 });
 
 function populateSection(sectionId, items, bgColorClass) {
