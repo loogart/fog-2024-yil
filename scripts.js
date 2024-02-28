@@ -1,5 +1,11 @@
 AOS.init();
 
+// Autoplay hero video
+function playVideo() {
+    var video = document.getElementById("myVideo");
+    video.play();
+}
+
 document.addEventListener("DOMContentLoaded", function() {
     // Assuming jsonData is loaded from your JSON file
     const jsonData = {
