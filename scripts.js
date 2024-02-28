@@ -373,6 +373,7 @@ function populateSection(sectionId, items, bgColorClass) {
                 <img src="${item.image}" class="card-img-top ${bgColorClass}" alt="...">
                 <div class="card-body text-white">
                     <h4 class="card-title bio-name">${item.name}</h4>
+                    <span class="bio-pronouns">${item.pronouns}</span>
                     <p class="small text-white mb-0 bio-title">${item.title}</p>
                 </div>
             </div>
@@ -393,7 +394,8 @@ function populateModal(item, bgColorClass) {
     modalImage.classList.add(bgColorClass);
     modalImage.src = item.image;
 
-    modal.querySelector('.modal-body .bio-name').textContent = item.name + " (" + item.pronouns + ")";
+    modal.querySelector('.modal-body .bio-name').textContent = item.name;
+    modal.querySelector('.modal-body .bio-pronouns').textContent = item.pronouns;
     modal.querySelector('.modal-body .bio-title').textContent = item.title;
     modal.querySelector('.modal-body .bio').textContent = item.description;
     modal.querySelector('.modal-body .bio-website').href = item.website || '#';
