@@ -132,7 +132,18 @@ document.addEventListener("DOMContentLoaded", function() {
                 "twitter": "",
                 "linkedin": "https://www.linkedin.com/in/jillisabrown",
                 "instagram": "https://www.instagram.com/fundingimpact/"
-            }  
+            },
+            {
+                "name": "Sancho Angulo",
+                "pronouns": "He/Him",
+                "image": "images/photos/sancho-angulo.png",
+                "title": "Engagement Advisor, Treasury Board of Canada Secretariat",
+                "description": "Sancho Angulo is an autistic Filipino-Canadian public servant, neurodiversity advocate, and privacy professional. He is Co-Chair and founder of Infinity - The Network for Neurodivergent Public Servants, an interdepartmental network supporting neurodivergent employees across the Government of Canada, encompassing more than 900 members across 70 federal institutions. A certified privacy professional through the International Association of Privacy Professionals, Sancho serves as a Co-Chair of Ottawa's IAPP KnowledgeNet chapter.",
+                "website": "",
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/sanchoa/",
+                "instagram": "https://www.instagram.com/sanchoangulo/"
+            }
         ],
         "youth": [
             {
@@ -168,17 +179,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 "twitter": "https://twitter.com/QArnatsiaq",
                 "linkedin": "",
                 "instagram": "https://www.instagram.com/qumangaapikarnatsiaq/"
-            },
-            {
-                "name": "Sancho Angulo",
-                "pronouns": "He/Him",
-                "image": "images/photos/sancho-angulo.png",
-                "title": "Engagement Advisor, Treasury Board of Canada Secretariat",
-                "description": "Sancho Angulo is an autistic Filipino-Canadian public servant, neurodiversity advocate, and privacy professional. He is Co-Chair and founder of Infinity - The Network for Neurodivergent Public Servants, an interdepartmental network supporting neurodivergent employees across the Government of Canada, encompassing more than 900 members across 70 federal institutions. A certified privacy professional through the International Association of Privacy Professionals, Sancho serves as a Co-Chair of Ottawa's IAPP KnowledgeNet chapter.",
-                "website": "",
-                "twitter": "",
-                "linkedin": "https://www.linkedin.com/in/sanchoa/",
-                "instagram": "https://www.instagram.com/sanchoangulo/"
             },
             {
                 "name": "Aicha Toure",
