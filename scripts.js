@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 "name": "Anoodth Naushan",
                 "pronouns": "She/Her",
                 "image": "images/photos/anoodth-naushan.png",
-                "title": "Thought Leader",
+                "title": "Project Director, Courage to Act",
                 "description": "Anoodth Naushan is an award-winning thought leader, researcher, policy advisor, and community advocate who enjoys supporting people and projects to advance gender, racial, and economic justice. She holds a Masters in Social Policy and Social Research and has worked at the intersection of policy and program design, community capacity building, and systems change for over a decade. Her diverse experience spans Canada and the UK's non-profit and higher education sectors.",
                 "website": "",
                 "twitter": "",
