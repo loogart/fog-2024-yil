@@ -206,9 +206,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 "name": "Cheyenne Stonechild",
                 "pronouns": "She/Her",
                 "image": "images/photos/cheyenne-stonechild.png",
-                "title": "International Institute for Child Rights and Development",
-                "description": "Cheyenne Stonechild (Nêhiyaw and Irish) is a member of the Muscowpetung First Nation. Raised in Vancouver, the child welfare system sparked a passion to help create needed change. She has hosted and presented at conferences on select topics, including at the Continuing Legal Education Society of BC, the Canadian Bar Association, and the World Indigenous Peoples Conference on Education. She managed the 4 the Generation Project and was a member of the International Institute for Child Rights and Development from 2018 to 2020.",
-                "website": "https://www.iicrd.org",
+                "title": "Independent advocate and/or associate with the International Institute for Child Rights and Development",
+                "description": "Cheyenne Stonechild (Nêhiyaw and Irish) is a member of the Muscowpetung First Nation. Raised in Vancouver, where the child welfare system sparked a passion to help create the change we need. She has hosted and presented at conferences on select topics, including at the Continuing Legal Education Society of BC, the Canadian Bar Association, and the World Indigenous Peoples Conference on Education. She managed the 4 the Generation Project and was a member of the International Institute for Child Rights and Development from 2018 to 2020.",
+                "website": "https://www.iicrd.org/associates",
                 "twitter": "",
                 "linkedin": "",
                 "instagram": ""
